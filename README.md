@@ -2,6 +2,6 @@
 
 My first Repository
 
-I love sky, draw, cat
+I love :art:, :cat:, :mountain:
 
 I hate cold weather
